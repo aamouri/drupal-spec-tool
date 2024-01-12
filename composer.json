@@ -1,5 +1,5 @@
 {
-    "name": "acquia/drupal-spec-tool",
+    "name": "aamouri/drupal-spec-tool",
     "description": "A tool for specifying Drupal architecture details and generating automated tests for them",
     "license": "GPL-2.0-only",
     "type": "behat-extension",
